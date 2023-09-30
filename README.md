@@ -1,2 +1,2 @@
-# YandexPracticum
+# JS Automation
 JS Automation
